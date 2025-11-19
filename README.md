@@ -71,3 +71,7 @@ The datasets can be utilized for a variety of tasks in data science, machine lea
 * **Recommendation Model:** Develop a constraint satisfaction or optimization model to select a combination of `Food_items` that meets a user's `Daily_Calories` and macronutrient targets.
 * **Classification:** Build a classifier to predict the optimal `Diet_Recommendation` based on a user's biometrics and goals.
 * **Predictive Modeling:** Train a model to predict meal-specific calorie targets (`cal_breakfast`, etc.) from the primary user inputs.
+  ** Contributer
+  1.Saurav Sing(Author)
+  2.Ritesh Kr. Pandit
+  https://github.com/ritesh-begin/
